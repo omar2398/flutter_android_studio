@@ -5,7 +5,7 @@ class messanger extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(
+        appBar: AppBar (
           titleSpacing: 20,
           backgroundColor: Colors.white,
           elevation: 0,
