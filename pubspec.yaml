@@ -58,7 +58,17 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/images/—Pngtree—brown prayer beads islamic or_7361713.png
+    - assets/images/list-svgrepo-com.png
+    - assets/images/menu.png
+    - assets/images/243199182_3002968283352846_2967079981718833595_n.jpg
+    - assets/images/users-svgrepo-com.png
+    - assets/images/coins-svgrepo-com.png
+    - assets/images/setting-svgrepo-com.png
+    - assets/images/heart-like-svgrepo-com.png
+    - assets/images/location-information-4-svgrepo-com.png
+    - assets/images/player-teleport-svgrepo-com.png
+    - assets/images/saved-svgrepo-com.png
+
 
   # To add assets to your application, add an assets section, like this:
   # assets:
@@ -77,9 +87,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-     - family: AllahMuhammad2022
+     - family: Cairo
        fonts:
-         - asset: assets/fonts/AllahMuhammad2022-axnpx.ttf
+         - asset: assets/fonts/Cairo-VariableFont_slnt,wght.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
